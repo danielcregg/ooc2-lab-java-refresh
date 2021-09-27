@@ -1,5 +1,4 @@
 public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Put the correct string here");
-    }
+    // Write the main method here
+    // Print "Hello World!" to the console
 }
