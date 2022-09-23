@@ -18,13 +18,13 @@ public class ArraysDemo {
 
        // Print every second day of the week
        System.out.println("Every second day of the week is: ");
-       for (int i = 0; i < daysOfWeek.length; i++) {
+       //for (int i = 0; i < daysOfWeek.length; i++) {
            // Use and if statment combiuned with the modulous operator to print every second day 
             //if (condition){
             //    System.out.println(daysOfWeek[i]);
             //} // End of if
 
-        } // End of for loop
+        //} // End of for loop
 
     } // End of main
 } // End of class
